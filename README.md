@@ -1,42 +1,51 @@
-# 👋 Hey there, I'm Tushar Koli!
+<p align="center">
+  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ceab6b05-066e-4f6b-82ab-d8d718e2cbb5/dbnuzoh-d3101e51-598d-4520-a45b-bf0671ac6cd0.gif" width="300" alt="Hero Image" />
+</p>
 
-I’m a **MERN Stack Developer** passionate about building scalable, performant, and user-centric web applications. With a strong foundation in JavaScript technologies and a love for clean code, I enjoy turning ideas into functional digital products.
+<h1 align="center">👋 Hey there, I'm Tushar Koli!</h1>
 
----
-
-## 🧑‍💻 About Me
-
-- 🎓 Master's in Computer Science  
-- 💻 Full-Stack Developer (MERN)  
-- 🌐 Frontend: HTML, CSS, JavaScript, React, Next.js, Chakra UI, Tailwind CSS  
-- 🧠 Backend: Node.js, Express.js  
-- 🧩 Tools: Git, GitHub, Firebase, Postman, VS Code  
-- 📊 Love building dashboards, admin panels & data-driven UIs  
-- 🚀 Lifelong learner & open-source contributor  
+<p align="center">A passionate MERN Stack Developer who loves turning ideas into real-world digital experiences.</p>
 
 ---
 
-## 🚀 Hero Projects
+## 👨‍💻 About Me
 
-### 📚 E-Library  
-A dynamic online book store with real-time CRUD functionality, filtering, sorting, searching, authentication, and cart management.
-
-🔗 [Live Demo](https://bespoke-semolina-f46a43.netlify.app/)  
-💻 [Source Code](https://github.com/koli899/E-library-hub)
-
----
-
-### 🧮 Casio Calculator Clone  
-A functional Casio-style calculator with live data storage and retrieval using Firebase Realtime Database.
-
-🔗 [Live Demo](https://casio-clone.netlify.app)  
-💻 [Source Code](https://github.com/koli899/casio-clone)
+- 🎓 Master’s in Computer Science  
+- 💻 Full Stack Developer (MongoDB, Express.js, React, Node.js)  
+- 🧠 Problem-solver and creative thinker  
+- 📊 Specialized in dashboards, admin panels & dynamic UIs  
+- 🚀 Lifelong learner and open-source enthusiast  
 
 ---
 
-## 🛠️ Tech Stack
+## 🔥 Featured Projects
 
-### 🖥️ Frontend  
+### 📚 E-Library
+
+A feature-rich online book hub with advanced sorting, filtering, and search functionalities. Includes Firebase authentication, full CRUD capabilities, and a shopping cart.
+
+- 🔍 Search by name, filter by bestseller or average seller
+- 📦 Manage books: Add, edit, delete in real-time
+- 🔒 Secure login and user auth with Firebase
+
+🔗 [Live Demo](https://bespoke-semolina-f46a43.netlify.app/) | 💻 [GitHub](https://github.com/koli899/E-library-hub)
+
+---
+
+### 🧮 Casio Calculator Clone
+
+A modern clone of the classic Casio calculator, powered by Firebase Realtime Database. Perform basic operations and sync live with database.
+
+- 🔢 Realtime value updates with Firebase
+- 🧮 Functional and responsive calculator UI
+
+🔗 [Live Demo](https://casio-clone.netlify.app) | 💻 [GitHub](https://github.com/koli899/casio-clone)
+
+---
+
+## 🧰 Tech Stack
+
+### 🎨 Frontend  
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
@@ -45,13 +54,13 @@ A functional Casio-style calculator with live data storage and retrieval using F
 ![Chakra UI](https://img.shields.io/badge/Chakra_UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white)  
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### 🧪 Backend & DB  
+### ⚙️ Backend & DB  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)  
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-### 🧰 Tools  
+### 🧩 Tools  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
@@ -67,11 +76,12 @@ A functional Casio-style calculator with live data storage and retrieval using F
 
 ---
 
-## 📫 Connect with Me
+## 📫 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tushar-koli-248a852a9 )  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tushar-koli/)  
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/koli899)
 
 ---
 
-Thanks for visiting! Feel free to check out my work, leave a ⭐, or reach out for collaborations! 🚀
+Thanks for visiting! Feel free to check out my work, drop a ⭐, or connect for collaboration. Happy coding! 🚀
+
