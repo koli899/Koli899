@@ -20,15 +20,17 @@
 
 ## 🔥 Featured Projects
 
-### 📚 E-Library
+🎓 SkillGate - Course Platform Dashboard
+A dynamic and responsive course platform featuring role-based dashboards for Admin, Instructor, and Student. Built with React and Firebase, it includes announcement systems, course management tools, and secure authentication.
 
-A feature-rich online book hub with advanced sorting, filtering, and search functionalities. Includes Firebase authentication, full CRUD capabilities, and a shopping cart.
+🧑‍🏫 Instructor: Create, update, and delete courses and lessons
+📚 Student: Browse and view enrolled courses with announcements
+🛠 Admin: Manage users and platform-wide announcements
+🔐 Secure login with role-based access and real-time updates
+📊 Horizontal scrollable course UI and dropdown ladder-style lesson management
 
-- 🔍 Search by name, filter by bestseller or average seller
-- 📦 Manage books: Add, edit, delete in real-time
-- 🔒 Secure login and user auth with Firebase
+[🔗 Live Demo](https://skill-gate-alpha.vercel.app/) | [💻 GitHub](https://github.com/koli899/SkillGate)
 
-[🔗 Live Demo](https://bespoke-semolina-f46a43.netlify.app/) | [💻 GitHub](https://github.com/koli899/E-library-hub)
 
 ---
 
